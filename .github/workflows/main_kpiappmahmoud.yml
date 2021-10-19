@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Kpiappmahmoud'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8465ABBA8D184DBC8ED48A884848B80B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_33B4CEC199784F8C8CCA6E0F10D20D13 }}
           package: .
